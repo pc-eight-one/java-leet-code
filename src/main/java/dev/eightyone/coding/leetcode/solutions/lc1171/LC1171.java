@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
-@ProblemUrl(url = "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/")
+@ProblemUrl(url = "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list")
 public class LC1171 {
 
     public ListNode removeZeroSumSublists(ListNode head) {
