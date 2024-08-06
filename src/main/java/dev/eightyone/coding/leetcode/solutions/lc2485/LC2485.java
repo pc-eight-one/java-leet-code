@@ -31,15 +31,5 @@ public class LC2485 {
         }
 
         return -1;
-//        int sumForward = 0;
-//        int sumBackward = 0;
-//        for (int i = 0; i < n; i++) {
-//            sumForward += i + 1;
-//            sumBackward += n - (i + 1);
-//            if (sumForward == sumBackward) {
-//                return i + 1;
-//            }
-//        }
-//        return -1;
     }
 }
